@@ -1,5 +1,5 @@
-    SECTION .data
-msg:    dc.b 'Hello, World!',0
+ SECTION .data
+msg:    dc.b 'Programmiert von Treti und dem AI Copilot',0
 
     SECTION .text
     org $1000
